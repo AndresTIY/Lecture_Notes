@@ -70,4 +70,4 @@
 - anyone can publish on the network from their own computer
 - let's say you want to share a file with someone, you set up a link, and the other user downloads it directly from you. no middle person.
 - if that person shares that file again, then the 3rd person will download parts from the first Two
--
+- [Check it out!](https://beakerbrowser.com/)
